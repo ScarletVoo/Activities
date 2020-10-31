@@ -1,0 +1,44 @@
+h1 {
+  text-align: center;
+}
+.red {
+  color: red;
+}
+.blue {
+  color: red;
+}
+.green {
+  color: green;
+}
+.bigSize {
+  font-size: x-large;
+}
+.smallSize {
+  font-size: xx-small;
+}
+.center {
+  text-align: center;
+}
+.bold {
+  font-weight: bold;
+}
+.changeFont {
+  font-family: fantasy;
+}
+.multipleAttributes {
+  font-size: xx-large;
+  color: orange;
+  font-weight: bold;
+}
+.styledFont {
+  font-family: sans-serif;
+  color: aqua;
+  font-weight: bolder;
+  font-style: oblique;
+}
+#styledImage {
+  margin: 20px 0;
+  border-style: solid;
+  color: blueviolet;
+  border-width: 10px;
+}
